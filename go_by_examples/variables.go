@@ -23,4 +23,9 @@ func main() {
 
 	var h bool = true
 	fmt.Println(h)
+
+	j := true
+	fmt.Println(j)
+
+	fmt.Printf("Type of j is: %T\n", j)
 }
